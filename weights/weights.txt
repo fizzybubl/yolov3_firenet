@@ -1,0 +1,6 @@
+Download the fire weights from:
+https://drive.google.com/drive/folders/1hzWFdbd015u8ymKWI9rKK6wdwzTeDtxX?usp=sharing
+
+Download the original yolov3 weights from:
+https://pjreddie.com/media/files/yolov3.weights
+https://pjreddie.com/media/files/yolov3-tiny.weights
