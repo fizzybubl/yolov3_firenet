@@ -1,0 +1,2 @@
+model_checkpoint_path: "fire_weights.tf"
+all_model_checkpoint_paths: "fire_weights.tf"
